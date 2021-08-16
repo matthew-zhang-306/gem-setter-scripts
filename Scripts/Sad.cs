@@ -1,0 +1,1 @@
+﻿using MongoDB.Bson; public class Sad { public ObjectId _id; public int sadNumber; }
